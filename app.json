@@ -1,0 +1,12 @@
+{
+  "name": "iamonkey",
+  "displayName": "iamonkey",
+  "expo": {
+    "name": "iamonkey",
+    "slug": "iamonkey",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
